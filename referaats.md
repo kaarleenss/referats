@@ -1,7 +1,7 @@
 # <center>RĪGAS TEHNISKĀ UNIVERSITĀTE</center>
 
-   <center>Datorzinātnes un informācijas tehnoloģijas fakultāte<br>
-   Informācijas tehnoloģijas institūts</center>
+   <center>Datorzinātnes un informācijas tehnoloģijas fakultāte</center><br>
+  <center>Informācijas tehnoloģijas institūts</center>
 <br>
 <br>
 <br>
